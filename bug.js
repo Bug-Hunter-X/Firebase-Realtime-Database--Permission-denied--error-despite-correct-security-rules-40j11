@@ -1,0 +1,1 @@
+The Firebase Realtime Database throws a 'Permission denied' error even when the security rules seem correctly configured to allow read access for authenticated users.  The rules are applied at the database level and allow read access, but the error still persists.
