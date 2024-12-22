@@ -1,0 +1,1 @@
+This repository demonstrates a common yet frustrating issue in Firebase Realtime Database security rules: receiving a 'Permission denied' error despite correctly configured rules allowing read access for authenticated users. The bug.js file shows the problematic code that generates the error. The bugSolution.js provides the solution and explanation.
